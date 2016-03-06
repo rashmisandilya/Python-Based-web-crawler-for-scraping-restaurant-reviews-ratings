@@ -1,0 +1,67 @@
+{"restaurants" :[
+{
+"restaurant_id_1" : {
+"name" : "el cerro",
+"data" : {
+"yelp" : {
+"rating" : "4.5",
+"count" : "45",
+"reviews" : []
+},
+"googleratings" : {
+"rating" : "5",
+"count" : "34",
+"reviews" : [{
+	"scale" : "4",
+	"review" : "test"
+}]
+},
+"tripadvisor" : {
+"rating" : "",
+"count" : "",
+"reviews" : [{
+	"scale" : "4",
+	"review" : "test"
+},{
+	"scale" : "4.2",
+	"review" : "test1"
+}]
+}
+}
+}
+}, 
+{
+"restaurant_id_2" : {
+"name" : "ruckus",
+"data" : {
+"yelp" : {
+"rating" : "5",
+"count" : "23",
+"reviews" : [{
+	"scale" : "4",
+	"review" : "test"
+}]
+},
+"googleratings" : {
+"rating" : "4.7",
+"count" : "56",
+"reviews" : [{
+	"scale" : "4",
+	"review" : "test"
+}]
+},
+"tripadvisor" : {
+"rating" : "4.6",
+"count" : "27",
+"reviews" : [{
+	"scale" : "4",
+	"review" : "test"
+},{
+	"scale" : "4.2",
+	"review" : "test1"
+}]
+}
+}
+}
+}
+]}
